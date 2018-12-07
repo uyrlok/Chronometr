@@ -1,0 +1,16 @@
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\Хронометр 2.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\Хронометр 2.exe
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\Хронометр 2.pdb
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\Microsoft.DirectX.xml
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\Хронометр 2.csproj.ResolveComReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\Хронометр 2.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\Хронометр 2.csproj.CoreCompileInputs.cache
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\Хронометр 2.exe
+C:\Users\user\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\Хронометр 2.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\Хронометр 2.csprojResolveAssemblyReference.cache
